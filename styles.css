@@ -1,0 +1,29 @@
+body{   
+    background-color: rgb(237, 176, 169);
+    font-size: 30px;
+}
+
+.menu {
+    display: inline-block;
+}
+
+.lasagna {
+    background-color: rgb(19, 212, 170);
+    display: inline-block;
+    margin: 20px;
+    border: 1px solid black;
+}
+
+.pastabake {
+    background-color: rgb(19, 212, 170);
+    display: inline-block;
+    margin: 20px;
+    border: 1px solid black;    
+}
+
+.shrimp-pesto {
+    background-color: rgb(19, 212, 170);
+    display: inline-block;
+    margin: 20px;
+    border: 1px solid black;
+}
